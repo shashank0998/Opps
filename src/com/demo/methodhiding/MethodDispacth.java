@@ -35,6 +35,7 @@ public class MethodDispacth
 	{
 		A a = new B();
 		a.m1();
+		
 //		A a = new A();
 //		
 //		B b = new B();
